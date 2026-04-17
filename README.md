@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Pedro! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+Java;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Spring+Boot+%7C+Java+%7C+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrotxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotxz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueTDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueTDS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrotxz&color=6C63FF&style=flat-square&label=Visitantes" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=PedroHenriqueTDS&color=6C63FF&style=flat-square&label=Visitantes" alt="Profile views"/>
 </div>
